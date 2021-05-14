@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=MusicLibrary
+comment1.params=
+comment1.target=MusicLibrary()
+comment10.params=target
+comment10.target=int\ binaryArtist(java.lang.String)
+comment2.params=target
+comment2.target=void\ add(Album)
+comment3.params=
+comment3.target=void\ doubleSize()
+comment4.params=target
+comment4.target=void\ remove(int)
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment6.params=target
+comment6.target=java.lang.String\ findTitle1(java.lang.String)
+comment7.params=target
+comment7.target=java.lang.String\ findArtist1(java.lang.String)
+comment8.params=target
+comment8.target=void\ sortTitle(java.lang.String)
+comment9.params=target
+comment9.target=void\ sortArtist(java.lang.String)
+numComments=11
